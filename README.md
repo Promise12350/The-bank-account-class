@@ -1,0 +1,1 @@
+One of the challenging aspects of this project was implementing proper encapsulation by making the balance private and exposing it through a read-only property while still allowing controlled modifications via methods
